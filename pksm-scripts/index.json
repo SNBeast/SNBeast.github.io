@@ -3,5 +3,15 @@
     "name": "Hello World.c",
     "generation": "universal",
     "url": "https://snbeast.github.io/pksm-scripts/Hello%20World.c"
+  },
+  {
+    "name": "hello/Hello World.c",
+    "generation": "universal",
+    "url": "https://snbeast.github.io/pksm-scripts/Hello%20World.c"
+  },
+  {
+    "name": "hello/world/Hello World.c",
+    "generation": "universal",
+    "url": "https://snbeast.github.io/pksm-scripts/Hello%20World.c"
   }
 ]
